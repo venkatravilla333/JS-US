@@ -183,6 +183,50 @@
 // console.log(reduceRes)
 
 
+//sorting
+
+//primitives
+
+//string
+
+// var arr = ['dhoni', 'sachin', 'gill', 'rahul']
+// var arr = [6, 2, 5, 4]
+// var arr = [6, 12, 5, 4]
+var arr = [{name: 'dhoni'}, {name: 'sachin'}, {name: 'gill'}, {name: 'rahul'}]
+// console.log(arr)
+
+// var ASO = arr.sort()
+
+// var DSO = arr.reverse()
+
+// console.log(ASO)
+// console.log(arr)
+// console.log(DSO)
+
+// var ASO = arr.sort((a, b) => {
+//   if (a.name > b.name) {
+//     return -1
+//   } else {
+//     return 1
+//   }
+// })
+// console.log(ASO)
+
+
+// for (var i = 0; i < arr.length; i++){
+//   for (var j = i + 1; j < arr.length; j++){
+//     console.log(i)
+//     console.log(j)
+//     if (arr[i].name > arr[j].name) {
+//       var temp = arr[i].name
+//       arr[i].name = arr[j].name
+//       arr[j].name = temp
+//     }
+//   }
+// }
+
+// console.log(arr)
+
 
 
 
